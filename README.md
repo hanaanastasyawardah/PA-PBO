@@ -25,14 +25,22 @@ Notifikasi antrian.
 Sistem ini diharapkan mampu meningkatkan efisiensi, kepuasan pasien, dan kualitas pelayanan sesuai standar pelayanan publik dan tujuan pemerintah dalam jaminan kesehatan.
 
 ## FLOWCHRAT
+
 ## USECASE DIAGRAM
+![USE CASE DIAGRAM PA drawio (9)](https://github.com/user-attachments/assets/c5dd28fd-6ee2-4ba6-bcb6-a9c8920cd4a4)
 ## ACTIVITY DIAGRAM
+![activity diagram pbo pa](https://github.com/user-attachments/assets/b7fab713-8751-49ef-8cb0-fed580910a2e)
+
 ## ERD
 ### Logical
+![Logical_PAPBOO](https://github.com/user-attachments/assets/26f2a15c-02f5-435c-9b45-c186d385a99f)
 ### Relational
+![Relational_PA PBO](https://github.com/user-attachments/assets/feaf97c5-a173-4999-a85d-71441351ff35)
+
 ## PENJELASAN CODINGAN
 ### 1. Class Database
 ### 2. Class 
 
 ## OUTPUT
+
    
