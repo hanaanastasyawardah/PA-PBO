@@ -31,5 +31,5 @@ Sistem ini diharapkan mampu meningkatkan efisiensi, kepuasan pasien, dan kualita
 ### 1. Class Database
 ### 2. Class 
 
-# OUTPUT
+## OUTPUT
    
