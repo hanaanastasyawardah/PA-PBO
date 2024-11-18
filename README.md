@@ -1,5 +1,5 @@
 # PA_PBO_Kelompok 7
-# Sistem Antrian BPJS di Rumah Sakit Samarinda
+## Sistem Antrian BPJS di Rumah Sakit Samarinda
 
 ## Anggota Kelompok 7
 - LISA NAFRATHILOYA	2309116006
@@ -21,13 +21,13 @@ Estimasi waktu tunggu.
 Notifikasi antrian.
 Sistem ini diharapkan mampu meningkatkan efisiensi, kepuasan pasien, dan kualitas pelayanan sesuai standar pelayanan publik dan tujuan pemerintah dalam jaminan kesehatan.
 
-# FLOWCHRAT
-# USECASE DIAGRAM
-# ACTIVITY DIAGRAM
-# ERD
-## Logical
-## Relational
-# PENJELASAN CODINGAN
+## FLOWCHRAT
+## USECASE DIAGRAM
+## ACTIVITY DIAGRAM
+## ERD
+### Logical
+### Relational
+## PENJELASAN CODINGAN
 ### 1. Class Database
 ### 2. Class 
 
