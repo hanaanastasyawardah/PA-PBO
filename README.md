@@ -2,11 +2,14 @@
 ## Sistem Antrian BPJS di Rumah Sakit Samarinda
 
 ## Anggota Kelompok 7
-- LISA NAFRATHILOYA	      2309116006
-- REYFALDHO ALFARAZEL	   2309116007
-- ALYA RIZQI RAMADHANI	   2309116008
-- HANA ANASTASYA WARDAH	   2309116012
-- NELY OKTAVIA REDECA	   2309116024
+|          **Nama**          |     **NIM**     |
+|----------------------------|-----------------|
+| LISA NAFRATHILOYA          | 2309116006      |
+| REYFALDHO ALFARAZEL        | 2309116007      |
+| ALYA RIZQI RAMADHANI       | 2309116008      |
+| HANA ANASTASYA WARDAH      | 2309116012      |
+| NELY OKTAVIA REDECA        | 2309116024      |
+
 
 ## Deskripsi Studi Kasus
 
