@@ -39,6 +39,13 @@ Rancangan ERD untuk database mencakup struktur tabel, hubungan antar tabel, dan 
 ![Logical_PAPBOO](https://github.com/user-attachments/assets/26f2a15c-02f5-435c-9b45-c186d385a99f)
 ### Relational
 ![Relational_PA PBO](https://github.com/user-attachments/assets/feaf97c5-a173-4999-a85d-71441351ff35)
+Erdish
+1.	Setiap satu dan hanya satu data pasien harus dimiliki oleh satu dan hanya satu penyakit, dan setiap satu dan hanya satu penyakit harus memiliki satu dan hanya satu data pasien.
+2.	Setiap satu dan hanya satu data pasien harus menerima satu atau banyak antrian, dan setiap satu atau banyak antrian harus diterima oleh satu dan hanya satu data pasien.
+3.	Setiap satu dan hanya satu penyakit harus memiliki satu atau banyak jadwal pelayanan, dan setiap satu atau banyak jadwal pelayanan harus dimiliki oleh satu dan hanya satu penyakit.
+4.	Setiap satu dan hanya satu antrian harus menjadwalkan satu dan hanya satu jadwal pelayanan, dan setiap satu dan hanya satu jadwal pelayanan harus dijadwalkan oleh satu dan hanya satu antrian.
+5.	Setiap satu dan hanya satu jadwal pelayanan harus dihubungkan oleh satu dan hanya satu data dokter, dan setiap satu dan hanya satu data dokter harus menghubungkan satu dan hanya satu jadwal pelayanan.
+6.	Setiap satu dan hanya satu data dokter harus diakses oleh satu dan hanya satu user, dan setiap satu dan hanya satu user harus mengakses satu dan hanya satu data dokter.
 
 ## PENJELASAN CODINGAN
 ### 1. Class Database
