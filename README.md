@@ -24,13 +24,20 @@ Estimasi waktu tunggu.
 Notifikasi antrian.
 Sistem ini diharapkan mampu meningkatkan efisiensi, kepuasan pasien, dan kualitas pelayanan sesuai standar pelayanan publik dan tujuan pemerintah dalam jaminan kesehatan.
 
-## 📌 FLOWCHRAT
+## 📌 FLOWCHART
+Aplikasi Sistem Analis Antrian BPJS. Kelompok kami membuat sebuah alur diagram atau yang dibasa dikenal dengan sebutan flowchart. Flowchart digunakan untuk menjelaskan alur dari sebuah program. Berikut adalah flowchart dari Aplikasi Sistem Analis Antrian BPJS:
+
 ![FC Sistem Antrian BPJS-Page-1 drawio](https://github.com/user-attachments/assets/e40b809c-22af-4de0-99c3-440d627dfc6e)
 
 ## 📌 USECASE DIAGRAM
+Salah satu jenis diagram dalam Unified Modeling Language (UML) yang digunakan untuk menggambarkan interaksi antara pengguna (aktor) dan sistem yang akan dikembangkan. Diagram ini berfokus pada fungsi-fungsi yang disediakan oleh sistem (use case) dan hubungan antara aktor dengan fungsi-fungsi tersebut.
+
 ![USE CASE DIAGRAM PA drawio (9)](https://github.com/user-attachments/assets/c5dd28fd-6ee2-4ba6-bcb6-a9c8920cd4a4)
 
 ## 📌 ACTIVITY DIAGRAM
+Salah satu diagram dalam Unified Modeling Language (UML) yang digunakan untuk menggambarkan alur kerja (workflow) atau proses bisnis dalam sebuah sistem. Diagram ini fokus pada urutan aktivitas yang dilakukan dalam suatu proses, baik secara linier maupun bercabang.
+
+Komponen Utama Activity Diagram:
 ![activity diagram pbo pa](https://github.com/user-attachments/assets/b7fab713-8751-49ef-8cb0-fed580910a2e)
 
 ## 📌 ERD
