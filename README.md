@@ -47,10 +47,6 @@ Erdish
 5.	Setiap satu dan hanya satu jadwal pelayanan harus dihubungkan oleh satu dan hanya satu data dokter, dan setiap satu dan hanya satu data dokter harus menghubungkan satu dan hanya satu jadwal pelayanan.
 6.	Setiap satu dan hanya satu data dokter harus diakses oleh satu dan hanya satu user, dan setiap satu dan hanya satu user harus mengakses satu dan hanya satu data dokter.
 
-## PENJELASAN CODINGAN
-### 1. Class Database
-### 2. Class 
-
 ## OUTPUT
 
    
