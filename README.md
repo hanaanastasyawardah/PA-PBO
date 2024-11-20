@@ -12,17 +12,48 @@
 
 
 ## 📌 Deskripsi Studi Kasus
+**Sistem Informasi Antrian Pasien BPJS** merupakan aplikasi Java yang dirancang untuk mengatasi masalah antrian pasien yang tidak efisien di Rumah Sakit Samarinda. Masalah ini menyebabkan waktu tunggu lama, estimasi waktu pelayanan yang tidak pasti, serta kurangnya informasi real-time. Hal tersebut berdampak negatif pada tingkat kepuasan pasien dan kelancaran operasional rumah sakit. Sistem ini hadir sebagai solusi untuk menyediakan pengelolaan antrian yang lebih terstruktur dan modern.
 
-Rumah Sakit Samarinda menghadapi masalah antrian pasien BPJS yang tidak efisien, menyebabkan waktu tunggu lama, estimasi waktu yang tidak pasti, dan kurangnya informasi real-time. Masalah ini memengaruhi kepuasan pasien dan kelancaran pelayanan.
+Mengacu pada Peraturan Presiden No. 12 Tahun 2013 dan penelitian terkait, pelayanan kesehatan yang berkualitas harus berpusat pada kebutuhan pasien. Namun, sistem antrian manual sering memicu penumpukan pasien, memperlambat proses birokrasi, dan meningkatkan risiko kesehatan. Oleh karena itu, aplikasi ini diharapkan dapat mendukung peningkatan kualitas layanan rumah sakit secara keseluruhan.
 
-Mengacu pada Perpres No. 12 Tahun 2013 dan penelitian terkait, kualitas layanan yang baik harus fokus pada kebutuhan pasien. Namun, sistem antrian manual sering menimbulkan penumpukan pasien dan memperburuk birokrasi, berpotensi meningkatkan risiko kesehatan.
+### Tujuan Pengembangan Aplikasi
+**- Meningkatkan Efisiensi Pelayanan:** Mengurangi waktu tunggu pasien dengan pengelolaan antrian yang lebih terorganisir.
 
-Proyek ini bertujuan mengembangkan sistem antrian berbasis komputer menggunakan Java NetBeans, dengan fitur:
+**- Menyediakan Estimasi Waktu Pelayanan:** Memberikan informasi real-time terkait estimasi waktu bagi pasien yang menunggu.
 
-Pemantauan status antrian.
-Estimasi waktu tunggu.
-Notifikasi antrian.
-Sistem ini diharapkan mampu meningkatkan efisiensi, kepuasan pasien, dan kualitas pelayanan sesuai standar pelayanan publik dan tujuan pemerintah dalam jaminan kesehatan.
+**- Mempermudah Pengelolaan Antrian:** Mengoptimalkan proses pendaftaran, pencatatan, dan prioritas pasien secara digital.
+
+**- Meningkatkan Kepuasan Pasien:** Dengan layanan yang cepat, akurat, dan transparan, pasien merasa lebih dihargai.
+
+**- Mengurangi Risiko Kesehatan:** Menghindari penumpukan pasien di area tunggu yang dapat meningkatkan risiko penyebaran penyakit.
+
+### Fitur Utama
+**- Manajemen Antrian:** Memungkinkan pengguna untuk menambah, mengubah, dan menghapus data pasien dalam antrian.
+
+**- Sorting Berdasarkan Jenis Penyakit:** Mengatur prioritas pasien berdasarkan tingkat keparahan penyakit.
+
+**- Pencarian Data:** Menyediakan fitur pencarian cepat untuk menemukan informasi pasien.
+
+**- Jadwal Pelayanan:** Memberikan estimasi waktu pelayanan berdasarkan jadwal yang telah diatur.
+
+### Teknologi
+**- Java:** Bahasa pemrograman utama yang digunakan untuk pengembangan aplikasi.
+  
+**- NetBeans IDE:** Lingkungan pengembangan terpadu untuk membangun dan mengelola proyek.
+  
+**- MySQL:** Sistem manajemen basis data untuk menyimpan informasi pasien dan antrian.
+
+### Struktur Proyek
+**- src:** Direktori yang berisi source code Java, termasuk paket Controller, Database, Model, dan View.
+  
+**- dist:** Direktori yang berisi file JAR yang dapat dijalankan serta library pihak ketiga yang dibutuhkan.
+  
+**- nbproject:** Berisi file konfigurasi proyek yang spesifik untuk NetBeans.
+  
+**- antrian_pasien.sql:** Skrip SQL yang menyediakan struktur basis data, termasuk tabel dan relasi yang diperlukan untuk aplikasi ini.
+
+### Cara Menjalankan
+Untuk menjalankan aplikasi ini, gunakan file JAR yang tersedia di direktori dist. Pastikan semua library yang terdapat di dist/lib telah termasuk dalam classpath aplikasi. Aplikasi ini dirancang untuk meningkatkan efisiensi pengelolaan antrian, kepuasan pasien, dan kualitas pelayanan rumah sakit sesuai dengan standar pelayanan publik.
 
 ## 📌 FLOWCHART
 Aplikasi Sistem Analis Antrian BPJS. Kelompok kami membuat sebuah alur diagram atau yang dibasa dikenal dengan sebutan flowchart. Flowchart digunakan untuk menjelaskan alur dari sebuah program. Berikut adalah flowchart dari Aplikasi Sistem Analis Antrian BPJS:
