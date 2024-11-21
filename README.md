@@ -97,7 +97,7 @@ Erdish
    - Login Gagal
       ![Screenshot 2024-11-21 134613](https://github.com/user-attachments/assets/81b584e7-dfca-4951-b848-504b4aff41aa)
 
-     Saat login, terdapat dua kemungkinan hasil: Login Berhasil dan Login Gagal. Jika username, password, dan role benar, sistem akan menampilkan notifikasi "Login berhasil sebagai           Staff" dalam bentuk pop-up. Setelah pengguna mengklik OK, mereka akan diarahkan ke halaman utama sesuai hak akses staff. Sebaliknya, jika ada kesalahan pada username, password,         atau role, sistem akan memunculkan pesan "Username, password, atau role salah!" dalam pop-up. Pengguna harus mengklik OK untuk menutup pesan dan mencoba login kembali dengan data        yang benar.
+     Saat login, terdapat dua kemungkinan hasil: Login Berhasil dan Login Gagal. Jika username, password, dan role benar, sistem akan menampilkan notifikasi "Login berhasil sebagai           Staff" dalam bentuk pop-up. Setelah pengguna mengklik OK, mereka akan diarahkan ke halaman utama sesuai hak akses staff. Sebaliknya, jika ada kesalahan pada username, password,          atau role, sistem akan memunculkan pesan "Username, password, atau role salah!" dalam pop-up. Pengguna harus mengklik OK untuk menutup pesan dan mencoba login kembali dengan data        yang benar.
 
 3. Tampilan Menu Staff
    ![Screenshot 2024-11-21 134057](https://github.com/user-attachments/assets/5a91d7fb-8d71-40f9-a30d-86de008eb3cf)
