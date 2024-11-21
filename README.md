@@ -100,17 +100,38 @@ Erdish
    - Berdasarkan penyakit tingkat urgensi "Sedang"
    - Berdasarkan penyakit tingkat urgensi "Gawat Darurat"
 7. Log Out
+   
 ### **b. Role Pasien**
 1. Login Sebagai Pasien
+   ![Screenshot 2024-11-21 132634](https://github.com/user-attachments/assets/9eb4209b-6082-40d8-b530-7da9267edb7e)
+
    - Login Berhasil
+     ![Screenshot 2024-11-21 132716](https://github.com/user-attachments/assets/32c0fa69-08ef-48c6-bded-05b16921e4d3)
+
    - Login Gagal
+     ![image](https://github.com/user-attachments/assets/2ed7b33e-12ec-45ba-a99f-50116010b6dc)
+
 2. Register akun baru
-   - Jika akun baru yang dibuat berhasil 
-2. Tampilan Menu Pasien
-3. Pendaftaran Pasien
-4. Lihat Antrian
+   ![Screenshot 2024-11-21 133650](https://github.com/user-attachments/assets/4159b57c-d3f2-4696-a8b0-2820760ddd9a)
+
+   - Jika akun baru yang dibuat berhasil
+     ![Screenshot 2024-11-21 133729](https://github.com/user-attachments/assets/153bf3f4-f1a5-4899-a15c-fb0b78fa88c8)
+
+3. Tampilan Menu Pasien
+   ![Screenshot 2024-11-21 132847](https://github.com/user-attachments/assets/4ca4eb71-e4e7-4e46-ab87-32151b6cc6ec)
+
+4. Pendaftaran Pasien
+5. Lihat Antrian
    - Berdasarkan ID Pasien
+     ![Screenshot 2024-11-21 133135](https://github.com/user-attachments/assets/7f801c5f-bc14-438e-8cc3-1a748385b27f)
+
    - Berdasarkan Nama Pasien
+     ![Screenshot 2024-11-21 133312](https://github.com/user-attachments/assets/6eec58fb-335b-4d89-ae02-8689be10d484)
+
 6. Lihat Jadwal Pelayanan
+   ![Screenshot 2024-11-21 133359](https://github.com/user-attachments/assets/1d5d0f29-11d5-44f6-b979-573a87ec7b92)
+
 7. Log Out
-   
+   ![Screenshot 2024-11-21 133454](https://github.com/user-attachments/assets/a21a294f-83f1-484d-83f3-65ae4e7a8713)
+
+
