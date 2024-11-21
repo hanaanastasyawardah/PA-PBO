@@ -111,7 +111,8 @@ Setelah berhasil login, Staff akan di tujukan dengan halaman menu Staff. Di Menu
 3. Data Dokter
    
    - Menampilkan data dokter (read)
-     
+     Pada menu "Data Dokter", staff dapat mengelola data dokter seperti ID Dokter, Nama Dokter, Spesialisasi, Nomor Telepon, dan Jadwal       Kerja. Setelah data diisi, informasi dokter akan tampil di sistem.
+     Staff dapat menambah, memperbarui, atau menghapus data dokter, serta keluar dari menu "Data Dokter" ke halaman sebelumnya. Fitur         ini memastikan data dokter selalu akurat dan mendukung kelancaran pelayanan kesehatan.
      ![image](https://github.com/user-attachments/assets/bb148271-a59e-47e4-ab5e-ca210c1ef062)
      
    - Add data dokter
