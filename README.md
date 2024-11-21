@@ -91,7 +91,7 @@ Rancangan ERD untuk database mencakup struktur tabel, hubungan antar tabel, dan 
 ### **a. Role Staff**
 1. Login Sebagai Staff
 
-Pada tampilan login, staff harus memasukkan username dan password, lalu memilih peran Staff dari dropdown sebelum menekan tombol LOGIN. Jika data benar, sistem akan memverifikasi dan    mengarahkan ke halaman utama sesuai hak akses. Jika belum memiliki akun, pengguna bisa membuatnya dengan mengklik opsi Sign In.
+Pada tampilan login, staff harus memasukkan username dan password, lalu memilih peran Staff dari dropdown sebelum menekan tombol LOGIN. Jika data benar, sistem akan memverifikasi dan mengarahkan ke halaman utama sesuai hak akses. Jika belum memiliki akun, pengguna bisa membuatnya dengan mengklik opsi Sign In.
    ![Screenshot 2024-11-21 133849](https://github.com/user-attachments/assets/b02acd4c-9ad3-4bbf-ba7d-06720592c2f0)
 
    - Login Berhasil
@@ -109,10 +109,10 @@ Setelah berhasil login, Staff akan di tujukan dengan halaman menu Staff. Di Menu
    ![Screenshot 2024-11-21 134057](https://github.com/user-attachments/assets/5a91d7fb-8d71-40f9-a30d-86de008eb3cf)
 
 3. Data Dokter
+   Pada menu "Data Dokter", staff dapat mengelola data dokter seperti ID Dokter, Nama Dokter, Spesialisasi, Nomor Telepon, dan Jadwal       Kerja. Setelah data diisi, informasi dokter akan tampil di sistem.
+   Staff dapat menambah, memperbarui, atau menghapus data dokter, serta keluar dari menu "Data Dokter" ke halaman sebelumnya. Fitur         ini memastikan data dokter selalu akurat dan mendukung kelancaran pelayanan kesehatan.
    
    - Menampilkan data dokter (read)
-     Pada menu "Data Dokter", staff dapat mengelola data dokter seperti ID Dokter, Nama Dokter, Spesialisasi, Nomor Telepon, dan Jadwal       Kerja. Setelah data diisi, informasi dokter akan tampil di sistem.
-     Staff dapat menambah, memperbarui, atau menghapus data dokter, serta keluar dari menu "Data Dokter" ke halaman sebelumnya. Fitur         ini memastikan data dokter selalu akurat dan mendukung kelancaran pelayanan kesehatan.
      ![image](https://github.com/user-attachments/assets/bb148271-a59e-47e4-ab5e-ca210c1ef062)
      
    - Add data dokter
@@ -127,7 +127,10 @@ Setelah berhasil login, Staff akan di tujukan dengan halaman menu Staff. Di Menu
      
      ![hapus dokter 2](https://github.com/user-attachments/assets/0468852b-99b9-411d-a6da-b7de01d754a1)
 
-4. Data Pasien
+5. Data Pasien
+   Pada menu "Data Dokter", staff dapat mengelola data dokter seperti ID Dokter, Nama Dokter, Spesialisasi, Nomor Telepon, dan Jadwal       Kerja. Setelah data diisi, informasi dokter akan tampil di sistem.
+   Staff dapat menampilkan, menambah, memperbarui, atau menghapus data dokter, serta keluar dari menu "Data Dokter" ke halaman              sebelumnya. Fitur ini memastikan data dokter selalu akurat dan mendukung kelancaran pelayanan kesehatan.
+
    
    - Menampilkan data pasien (read)
      
@@ -145,7 +148,8 @@ Setelah berhasil login, Staff akan di tujukan dengan halaman menu Staff. Di Menu
      
      ![Screenshot 2024-11-21 172826](https://github.com/user-attachments/assets/454bffc6-f092-4904-9dbc-a6add0273421)
 
-5. Data Antrian
+7. Data Antrian
+   Pada menu "Data Antrian", staff dapat mengelola informasi antrian pasien. Halaman ini menampilkan form dengan kolom yang perlu diisi,    seperti ID Antrian, Waktu Masuk Antrian, Status Antrian, ID Pelayanan, dan ID Pasien. Untuk menambahkan data antrian baru, staff         hanya perlu mengisi seluruh informasi yang diperlukan dan menekan tombol Add. Setelah data berhasil ditambahkan, sistem akan             menampilkan notifikasi yang mengonfirmasi keberhasilan input data.
    
    - Menampilkan data antrian (read)
      ![Screenshot 2024-11-21 174454](https://github.com/user-attachments/assets/148b3923-c6ad-4ecb-a354-a89293e31efa)
@@ -159,7 +163,7 @@ Setelah berhasil login, Staff akan di tujukan dengan halaman menu Staff. Di Menu
    - Hapus data antrian
      ![Screenshot 2024-11-21 174630](https://github.com/user-attachments/assets/05a054de-341b-4b98-9357-9086a821b847)
 
-6. Pelayanan
+9. Pelayanan
    
    - Menampilkan pelayanan (read)
      ![Screenshot 2024-11-21 173524](https://github.com/user-attachments/assets/7a1efabe-1bb2-4d17-81a4-83e5eef4dddc)
