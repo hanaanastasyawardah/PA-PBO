@@ -99,17 +99,50 @@ Erdish
 
      Saat login, terdapat dua kemungkinan hasil yaitu Login Berhasil dan Login Gagal. Jika username, password, dan role benar, sistem akan menampilkan notifikasi "Login berhasil sebagai      Staff" dalam bentuk pop-up. Setelah pengguna mengklik OK, mereka akan diarahkan ke halaman utama sesuai hak akses staff. Sebaliknya, jika ada kesalahan pada username, password,          atau role, sistem akan memunculkan pesan "Username, password, atau role salah!" dalam pop-up. Pengguna harus mengklik OK untuk menutup pesan dan mencoba login kembali dengan data        yang benar.
 
-3. Tampilan Menu Staff
+2. Tampilan Menu Staff
    Setelah berhasil login, Staff akan di tujukan dengan halaman menu Staff. Di Menu staff, pengguna di berikan tampilan beberapa menu staff. Menu tersebut mencakup tentang Informasi        Data Pasien, Sorting Penyakit, dan Data Dokter.  
    ![Screenshot 2024-11-21 134057](https://github.com/user-attachments/assets/5a91d7fb-8d71-40f9-a30d-86de008eb3cf)
 
-5. Data Dokter
-   
-6. Data Pasien
-   
-7. Data Antrian
-   
-8. Sorting Berdasarkan Tingkat Urgensi Penyakit
+3. Data Dokter
+   - Menampilkan data dokter (read)
+     ![image](https://github.com/user-attachments/assets/bb148271-a59e-47e4-ab5e-ca210c1ef062)
+     
+   - Add data dokter
+     ![Screenshot 2024-11-21 175239](https://github.com/user-attachments/assets/10509f1d-7e38-46e7-ae3f-cb5f85696bf8)
+
+   - Update data dokter
+     ![update dokter](https://github.com/user-attachments/assets/8c4f828a-0409-4917-a904-9ef6b515debf)
+
+   - Hapus data Dokter
+     ![hapus dokter 2](https://github.com/user-attachments/assets/0468852b-99b9-411d-a6da-b7de01d754a1)
+
+4. Data Pasien
+   - Menampilkan data pasien (read)
+     ![Screenshot 2024-11-21 172025](https://github.com/user-attachments/assets/095d4c98-46cf-4634-8036-8b9d7ca829ea)
+
+   - Add data pasien
+     ![Screenshot 2024-11-21 173052](https://github.com/user-attachments/assets/26f2921b-4c0b-48ef-9275-609cb31f9607)
+
+   - Update data pasien
+     ![Screenshot 2024-11-21 172339](https://github.com/user-attachments/assets/16967f32-fbf6-49e1-ae3e-2fc261e55c7d)
+
+   - Hapus data pasien
+     ![Screenshot 2024-11-21 172826](https://github.com/user-attachments/assets/454bffc6-f092-4904-9dbc-a6add0273421)
+
+5. Data Antrian
+   - Menampilkan data antrian (read)
+     ![Screenshot 2024-11-21 174454](https://github.com/user-attachments/assets/148b3923-c6ad-4ecb-a354-a89293e31efa)
+
+   - Add data antrian
+     ![Screenshot 2024-11-21 174426](https://github.com/user-attachments/assets/2fff558e-a94a-4675-9c7d-15f5d6398cce)
+
+   - Update data antrian
+     ![Screenshot 2024-11-21 174529](https://github.com/user-attachments/assets/d8e33ffe-5a6e-4527-82e8-a176bc7d5fe6)
+
+   - Hapus data antrian
+     ![Screenshot 2024-11-21 174630](https://github.com/user-attachments/assets/05a054de-341b-4b98-9357-9086a821b847)
+
+6. Sorting Berdasarkan Tingkat Urgensi Penyakit
    
    - Berdasarkan penyakit tingkat urgensi "Umum"
      ![Screenshot 2024-11-21 134131](https://github.com/user-attachments/assets/57757a6a-8c66-4521-88cf-103917f49895)
@@ -121,7 +154,7 @@ Erdish
      ![Screenshot 2024-11-21 134231](https://github.com/user-attachments/assets/129869cd-3c8f-4410-abdc-67d6ce9f4781)
      Dalam menu Sorting Penyakit, staff dapat melihat informasi pasien dan melakukan penyortiran berdasarkan tingkat urgensi yaitu Umum, Sedang, atau Gawat Darurat. Jika memilih Umum,        sistem menampilkan data pasien dengan urgensi penyakit umum. Jika memilih Sedang, data disaring untuk urgensi sedang. Jika memilih Gawat Darurat, hanya data pasien dengan urgensi        gawat darurat yang ditampilkan.
 
-9. Log Out
+7. Log Out
     
     Ketika pengguna memilih "Log Out", sistem akan menampilkan pesan konfirmasi "Anda yakin ingin keluar?" dengan opsi "Yes" atau "No". Jika memilih "Yes", sesi akan berakhir dan            pengguna diarahkan ke halaman login.
    ![Screenshot 2024-11-21 134327](https://github.com/user-attachments/assets/112c9165-e9f1-484f-af46-b5bff8a17391)
@@ -138,7 +171,7 @@ Erdish
      ![image](https://github.com/user-attachments/assets/2ed7b33e-12ec-45ba-a99f-50116010b6dc)
      Pada proses login untuk Role Pasien, terdapat dua hasil yaitu Login Berhasil dan Login Gagal. Jika data benar, sistem menampilkan pop-up "Login berhasil sebagai Pasien." Setelah         mengklik OK, pasien diarahkan ke halaman utama. Jika ada kesalahan, muncul pop-up "Username, password, atau role salah!" dan pasien harus mengklik OK untuk mencoba lagi.
 
-3. Register akun baru
+2. Register akun baru
    Pada tampilan Register, pengguna yang belum memiliki akun dapat membuat akun baru dengan memasukkan *username* dan *password*, lalu menekan tombol CREATE ACCOUNT. Jika pendaftaran       berhasil, pengguna dapat login dengan akun baru. Tombol Kembali mengarahkan pengguna ke tampilan login jika sudah memiliki akun.
    ![Screenshot 2024-11-21 133650](https://github.com/user-attachments/assets/4159b57c-d3f2-4696-a8b0-2820760ddd9a)
 
@@ -146,13 +179,18 @@ Erdish
      Setelah pengguna berhasil membuat akun, sistem akan menampilkan pop-up dengan pesan "Akun berhasil dibuat sebagai Pasien." Pesan ini memberi konfirmasi bahwa proses pendaftaran          telah berhasil dan akun baru telah terdaftar sebagai pasien. Pengguna kemudian dapat mengklik tombol OK pada pop-up untuk melanjutkan dan bisa langsung login menggunakan akun yang       baru dibuat.
      ![Screenshot 2024-11-21 133729](https://github.com/user-attachments/assets/153bf3f4-f1a5-4899-a15c-fb0b78fa88c8)
 
-5. Tampilan Menu Pasien
+3. Tampilan Menu Pasien
    Setelah berhasil login, Pasien akan di tujukan dengan halaman menu Pasien. Di Menu pasien, pengguna di berikan tampilan beberapa menu pasien. Menu tersebut mencakup tentang Buat         antrian, Lihat Antrian, dan Jadwal Pelayanan Pasien. 
    ![Screenshot 2024-11-21 132847](https://github.com/user-attachments/assets/4ca4eb71-e4e7-4e46-ab87-32151b6cc6ec)
 
-7. Pendaftaran Pasien
-   
-8. Lihat Antrian
+4. Pendaftaran Pasien
+   ![Screenshot 2024-11-21 170927](https://github.com/user-attachments/assets/a058e9a5-4cfe-4e54-8fe3-8756ec775a26)
+
+   Pasien berhasil melakukan pendaftaran
+   ![Screenshot 2024-11-21 170721](https://github.com/user-attachments/assets/e6744ca3-a630-4c5f-b1da-93322d210b2d)
+
+
+5. Lihat Antrian
    - Berdasarkan ID Pasien
      ![Screenshot 2024-11-21 133135](https://github.com/user-attachments/assets/7f801c5f-bc14-438e-8cc3-1a748385b27f)
 
@@ -160,11 +198,11 @@ Erdish
      ![Screenshot 2024-11-21 133312](https://github.com/user-attachments/assets/6eec58fb-335b-4d89-ae02-8689be10d484)
      Pada Menu “Lihat Antrian” Pasien akan di tampilkan dengan melihat data antrian pasien dan di sini pasien dapat melakukan searching data pasien, dengan mencari menggunakan ID pasien      atau menggunakan Nama pasien. 
 
-9. Lihat Jadwal Pelayanan
+6. Lihat Jadwal Pelayanan
     Pada Menu “Jadwal Pelayanan” Pasien akan di tampilakan dengan di perlihatkan menu jadwal pelayanan pada dokter yang tersedia di dalam data. Dan pasien akan di perlihatkan juga           jadwal kapan saja kapan dokter melakukan pelayanan apakah penuh, tersedia atau sedang libur.
    ![Screenshot 2024-11-21 133359](https://github.com/user-attachments/assets/1d5d0f29-11d5-44f6-b979-573a87ec7b92)
 
-11. Log Out
+7. Log Out
     Saat pasien memilih opsi “Log Out,” sistem akan menampilkan konfirmasi “Anda yakin ingin keluar?” Pengguna dapat memilih Yes untuk keluar atau No untuk tetap di aplikasi. Jika           memilih Yes, sistem akan mengakhiri sesi dengan aman dan mengarahkan pengguna kembali ke halaman login.
    ![Screenshot 2024-11-21 133454](https://github.com/user-attachments/assets/a21a294f-83f1-484d-83f3-65ae4e7a8713)
 
