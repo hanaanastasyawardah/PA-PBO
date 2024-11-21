@@ -158,7 +158,23 @@ Setelah berhasil login, Staff akan di tujukan dengan halaman menu Staff. Di Menu
    - Hapus data antrian
      ![Screenshot 2024-11-21 174630](https://github.com/user-attachments/assets/05a054de-341b-4b98-9357-9086a821b847)
 
-6. Sorting Berdasarkan Tingkat Urgensi Penyakit
+6. Pelayanan
+   
+   - Menampilkan pelayanan (read)
+     ![Screenshot 2024-11-21 173524](https://github.com/user-attachments/assets/7a1efabe-1bb2-4d17-81a4-83e5eef4dddc)
+
+   - Add pelayanan
+     ![Screenshot 2024-11-21 174022](https://github.com/user-attachments/assets/24ddcdc6-98bd-49bf-9ab7-47417de243f0)
+
+   - Update pelayanan
+     ![Screenshot 2024-11-21 173748](https://github.com/user-attachments/assets/89e25a0f-e71d-4239-802c-663fefe8fbcd)
+
+   - Hapus pelayanan
+     ![Screenshot 2024-11-21 173859](https://github.com/user-attachments/assets/b1a91130-dc6a-4d02-a9ee-39231fcd6a8f)
+
+  ![Screenshot 2024-11-21 173927](https://github.com/user-attachments/assets/39a56c69-4c12-4b34-8558-9f7bdaabaa92)
+
+7. Sorting Berdasarkan Tingkat Urgensi Penyakit
    
    - Berdasarkan penyakit tingkat urgensi "Umum"
      ![Screenshot 2024-11-21 134131](https://github.com/user-attachments/assets/57757a6a-8c66-4521-88cf-103917f49895)
@@ -171,9 +187,10 @@ Setelah berhasil login, Staff akan di tujukan dengan halaman menu Staff. Di Menu
 
 Dalam menu Sorting Penyakit, staff dapat melihat informasi pasien dan melakukan penyortiran berdasarkan tingkat urgensi yaitu Umum, Sedang, atau Gawat Darurat. Jika memilih Umum, sistem menampilkan data pasien dengan urgensi penyakit umum. Jika memilih Sedang, data disaring untuk urgensi sedang. Jika memilih Gawat Darurat, hanya data pasien dengan urgensi gawat darurat yang ditampilkan.
 
-7. Log Out
+8. Log Out
 
 Ketika pengguna memilih "Log Out", sistem akan menampilkan pesan konfirmasi "Anda yakin ingin keluar?" dengan opsi "Yes" atau "No". Jika memilih "Yes", sesi akan berakhir dan pengguna diarahkan ke halaman login.
+
    ![Screenshot 2024-11-21 134327](https://github.com/user-attachments/assets/112c9165-e9f1-484f-af46-b5bff8a17391)
 
 ### **b. Role Pasien**
