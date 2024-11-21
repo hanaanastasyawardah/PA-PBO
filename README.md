@@ -157,11 +157,14 @@ Erdish
 
    - Berdasarkan Nama Pasien
      ![Screenshot 2024-11-21 133312](https://github.com/user-attachments/assets/6eec58fb-335b-4d89-ae02-8689be10d484)
+     Pada Menu “Lihat Antrian” Pasien akan di tampilkan dengan melihat data antrian pasien dan di sini pasien dapat melakukan searching data pasien, dengan mencari menggunakan ID pasien      atau menggunakan Nama pasien. 
 
 9. Lihat Jadwal Pelayanan
+    Pada Menu “Jadwal Pelayanan” Pasien akan di tampilakan dengan di perlihatkan menu jadwal pelayanan pada dokter yang tersedia di dalam data. Dan pasien akan di perlihatkan juga           jadwal kapan saja kapan dokter melakukan pelayanan apakah penuh, tersedia atau sedang libur.
    ![Screenshot 2024-11-21 133359](https://github.com/user-attachments/assets/1d5d0f29-11d5-44f6-b979-573a87ec7b92)
 
-10. Log Out
+11. Log Out
+    Saat pasien memilih opsi “Log Out,” sistem akan menampilkan konfirmasi “Anda yakin ingin keluar?” Pengguna dapat memilih Yes untuk keluar atau No untuk tetap di aplikasi. Jika           memilih Yes, sistem akan mengakhiri sesi dengan aman dan mengarahkan pengguna kembali ke halaman login.
    ![Screenshot 2024-11-21 133454](https://github.com/user-attachments/assets/a21a294f-83f1-484d-83f3-65ae4e7a8713)
 
 
