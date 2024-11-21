@@ -88,6 +88,7 @@ Erdish
 ## OUTPUT
 ### **a. Role Staff**
 1. Login Sebagai Staff
+   Pada tampilan login, staff harus memasukkan username dan password, lalu memilih peran Staff dari dropdown sebelum menekan tombol LOGIN. Jika data benar, sistem akan memverifikasi dan    mengarahkan ke halaman utama sesuai hak akses. Jika belum memiliki akun, pengguna bisa membuatnya dengan mengklik opsi Sign In.
    ![Screenshot 2024-11-21 133849](https://github.com/user-attachments/assets/b02acd4c-9ad3-4bbf-ba7d-06720592c2f0)
 
    - Login Berhasil
@@ -96,16 +97,18 @@ Erdish
    - Login Gagal
       ![Screenshot 2024-11-21 134613](https://github.com/user-attachments/assets/81b584e7-dfca-4951-b848-504b4aff41aa)
 
-2. Tampilan Menu Staff
+     Saat login, terdapat dua kemungkinan hasil: Login Berhasil dan Login Gagal. Jika username, password, dan role benar, sistem akan menampilkan notifikasi "Login berhasil sebagai           Staff" dalam bentuk pop-up. Setelah pengguna mengklik OK, mereka akan diarahkan ke halaman utama sesuai hak akses staff. Sebaliknya, jika ada kesalahan pada username, password,         atau role, sistem akan memunculkan pesan "Username, password, atau role salah!" dalam pop-up. Pengguna harus mengklik OK untuk menutup pesan dan mencoba login kembali dengan data        yang benar.
+
+3. Tampilan Menu Staff
    ![Screenshot 2024-11-21 134057](https://github.com/user-attachments/assets/5a91d7fb-8d71-40f9-a30d-86de008eb3cf)
 
-3. Data Dokter
+4. Data Dokter
    
-4. Data Pasien
+5. Data Pasien
    
-5. Data Antrian
+6. Data Antrian
    
-6. Sorting Berdasarkan Tingkat Urgensi Penyakit
+7. Sorting Berdasarkan Tingkat Urgensi Penyakit
    
    - Berdasarkan penyakit tingkat urgensi "Umum"
      ![Screenshot 2024-11-21 134131](https://github.com/user-attachments/assets/57757a6a-8c66-4521-88cf-103917f49895)
@@ -116,7 +119,7 @@ Erdish
    - Berdasarkan penyakit tingkat urgensi "Gawat Darurat"
      ![Screenshot 2024-11-21 134231](https://github.com/user-attachments/assets/129869cd-3c8f-4410-abdc-67d6ce9f4781)
 
-7. Log Out
+8. Log Out
    ![Screenshot 2024-11-21 134327](https://github.com/user-attachments/assets/112c9165-e9f1-484f-af46-b5bff8a17391)
 
 ### **b. Role Pasien**
