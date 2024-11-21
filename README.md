@@ -97,18 +97,19 @@ Erdish
    - Login Gagal
       ![Screenshot 2024-11-21 134613](https://github.com/user-attachments/assets/81b584e7-dfca-4951-b848-504b4aff41aa)
 
-     Saat login, terdapat dua kemungkinan hasil: Login Berhasil dan Login Gagal. Jika username, password, dan role benar, sistem akan menampilkan notifikasi "Login berhasil sebagai           Staff" dalam bentuk pop-up. Setelah pengguna mengklik OK, mereka akan diarahkan ke halaman utama sesuai hak akses staff. Sebaliknya, jika ada kesalahan pada username, password,          atau role, sistem akan memunculkan pesan "Username, password, atau role salah!" dalam pop-up. Pengguna harus mengklik OK untuk menutup pesan dan mencoba login kembali dengan data        yang benar.
+     Saat login, terdapat dua kemungkinan hasil yaitu Login Berhasil dan Login Gagal. Jika username, password, dan role benar, sistem akan menampilkan notifikasi "Login berhasil sebagai      Staff" dalam bentuk pop-up. Setelah pengguna mengklik OK, mereka akan diarahkan ke halaman utama sesuai hak akses staff. Sebaliknya, jika ada kesalahan pada username, password,          atau role, sistem akan memunculkan pesan "Username, password, atau role salah!" dalam pop-up. Pengguna harus mengklik OK untuk menutup pesan dan mencoba login kembali dengan data        yang benar.
 
 3. Tampilan Menu Staff
+   Setelah berhasil login, Staff akan di tujukan dengan halaman menu Staff. Di Menu staff, pengguna di berikan tampilan beberapa menu staff. Menu tersebut mencakup tentang Informasi        Data Pasien, Sorting Penyakit, dan Data Dokter.  
    ![Screenshot 2024-11-21 134057](https://github.com/user-attachments/assets/5a91d7fb-8d71-40f9-a30d-86de008eb3cf)
 
-4. Data Dokter
+5. Data Dokter
    
-5. Data Pasien
+6. Data Pasien
    
-6. Data Antrian
+7. Data Antrian
    
-7. Sorting Berdasarkan Tingkat Urgensi Penyakit
+8. Sorting Berdasarkan Tingkat Urgensi Penyakit
    
    - Berdasarkan penyakit tingkat urgensi "Umum"
      ![Screenshot 2024-11-21 134131](https://github.com/user-attachments/assets/57757a6a-8c66-4521-88cf-103917f49895)
@@ -118,8 +119,9 @@ Erdish
 
    - Berdasarkan penyakit tingkat urgensi "Gawat Darurat"
      ![Screenshot 2024-11-21 134231](https://github.com/user-attachments/assets/129869cd-3c8f-4410-abdc-67d6ce9f4781)
+     Dalam menu Sorting Penyakit, staff dapat melihat informasi pasien dan melakukan penyortiran berdasarkan tingkat urgensi yaitu Umum, Sedang, atau Gawat Darurat. Jika memilih Umum,        sistem menampilkan data pasien dengan urgensi penyakit umum. Jika memilih Sedang, data disaring untuk urgensi sedang. Jika memilih Gawat Darurat, hanya data pasien dengan urgensi        gawat darurat yang ditampilkan.
 
-8. Log Out
+9. Log Out
    ![Screenshot 2024-11-21 134327](https://github.com/user-attachments/assets/112c9165-e9f1-484f-af46-b5bff8a17391)
 
 ### **b. Role Pasien**
