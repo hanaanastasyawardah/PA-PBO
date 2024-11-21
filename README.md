@@ -1,4 +1,4 @@
-# PA_PBO_Kelompok 7
+![Screenshot 2024-11-21 134057](https://github.com/user-attachments/assets/93a9910d-3053-472a-b8ae-7172a56fe55b)# PA_PBO_Kelompok 7
 ## Sistem Antrian BPJS di Rumah Sakit Samarinda
 
 ## Anggota Kelompok 7
@@ -88,19 +88,37 @@ Erdish
 ## OUTPUT
 ### **a. Role Staff**
 1. Login Sebagai Staff
+   ![Screenshot 2024-11-21 133849](https://github.com/user-attachments/assets/b02acd4c-9ad3-4bbf-ba7d-06720592c2f0)
+
    - Login Berhasil
+     ![Screenshot 2024-11-21 133947](https://github.com/user-attachments/assets/fab1ad5e-d4d9-40de-be6f-91043f9f87f4)
+
    - Login Gagal
+      ![Screenshot 2024-11-21 134613](https://github.com/user-attachments/assets/81b584e7-dfca-4951-b848-504b4aff41aa)
 
 2. Tampilan Menu Staff
+   ![Screenshot 2024-11-21 134057](https://github.com/user-attachments/assets/5a91d7fb-8d71-40f9-a30d-86de008eb3cf)
+
 3. Data Dokter
-4. Data Pasien
-5. Data Antrian
-6. Sorting Berdasarkan Tingkat Urgensi Penyakit
-   - Berdasarkan penyakit tingkat urgensi "Umum"
-   - Berdasarkan penyakit tingkat urgensi "Sedang"
-   - Berdasarkan penyakit tingkat urgensi "Gawat Darurat"
-7. Log Out
    
+4. Data Pasien
+   
+5. Data Antrian
+   
+6. Sorting Berdasarkan Tingkat Urgensi Penyakit
+   
+   - Berdasarkan penyakit tingkat urgensi "Umum"
+     ![Screenshot 2024-11-21 134131](https://github.com/user-attachments/assets/57757a6a-8c66-4521-88cf-103917f49895)
+
+   - Berdasarkan penyakit tingkat urgensi "Sedang"
+     ![Screenshot 2024-11-21 134207](https://github.com/user-attachments/assets/e5aec2f8-f42a-4ea0-8bea-29bf75a276b3)
+
+   - Berdasarkan penyakit tingkat urgensi "Gawat Darurat"
+     ![Screenshot 2024-11-21 134231](https://github.com/user-attachments/assets/129869cd-3c8f-4410-abdc-67d6ce9f4781)
+
+7. Log Out
+   ![Screenshot 2024-11-21 134327](https://github.com/user-attachments/assets/112c9165-e9f1-484f-af46-b5bff8a17391)
+
 ### **b. Role Pasien**
 1. Login Sebagai Pasien
    ![Screenshot 2024-11-21 132634](https://github.com/user-attachments/assets/9eb4209b-6082-40d8-b530-7da9267edb7e)
@@ -121,6 +139,7 @@ Erdish
    ![Screenshot 2024-11-21 132847](https://github.com/user-attachments/assets/4ca4eb71-e4e7-4e46-ab87-32151b6cc6ec)
 
 4. Pendaftaran Pasien
+   
 5. Lihat Antrian
    - Berdasarkan ID Pasien
      ![Screenshot 2024-11-21 133135](https://github.com/user-attachments/assets/7f801c5f-bc14-438e-8cc3-1a748385b27f)
