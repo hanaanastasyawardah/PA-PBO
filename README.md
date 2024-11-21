@@ -87,5 +87,30 @@ Erdish
 
 ## OUTPUT
 ### **a. Role Staff**
+1. Login Sebagai Staff
+   - Login Berhasil
+   - Login Gagal
 
+2. Tampilan Menu Staff
+3. Data Dokter
+4. Data Pasien
+5. Data Antrian
+6. Sorting Berdasarkan Tingkat Urgensi Penyakit
+   - Berdasarkan penyakit tingkat urgensi "Umum"
+   - Berdasarkan penyakit tingkat urgensi "Sedang"
+   - Berdasarkan penyakit tingkat urgensi "Gawat Darurat"
+7. Log Out
+### **b. Role Pasien**
+1. Login Sebagai Pasien
+   - Login Berhasil
+   - Login Gagal
+2. Register akun baru
+   - Jika akun baru yang dibuat berhasil 
+2. Tampilan Menu Pasien
+3. Pendaftaran Pasien
+4. Lihat Antrian
+   - Berdasarkan ID Pasien
+   - Berdasarkan Nama Pasien
+6. Lihat Jadwal Pelayanan
+7. Log Out
    
