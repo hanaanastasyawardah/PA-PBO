@@ -43,7 +43,7 @@ Mengacu pada Peraturan Presiden No. 12 Tahun 2013 dan penelitian terkait, pelaya
   
 **- MySQL:** Sistem manajemen basis data untuk menyimpan informasi pasien dan antrian.
 
-### Struktur Proyek
+### Struktur Projek
 **- src:** Direktori yang berisi source code Java, termasuk paket Controller, Database, Model, dan View.
   
 **- dist:** Direktori yang berisi file JAR yang dapat dijalankan serta library pihak ketiga yang dibutuhkan.
