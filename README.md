@@ -1,4 +1,4 @@
-![Screenshot 2024-11-21 134057](https://github.com/user-attachments/assets/93a9910d-3053-472a-b8ae-7172a56fe55b)# PA_PBO_Kelompok 7
+# PA_PBO_Kelompok 7
 ## Sistem Antrian BPJS di Rumah Sakit Samarinda
 
 ## Anggota Kelompok 7
