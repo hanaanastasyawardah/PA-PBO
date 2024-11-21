@@ -122,6 +122,7 @@ Erdish
      Dalam menu Sorting Penyakit, staff dapat melihat informasi pasien dan melakukan penyortiran berdasarkan tingkat urgensi yaitu Umum, Sedang, atau Gawat Darurat. Jika memilih Umum,        sistem menampilkan data pasien dengan urgensi penyakit umum. Jika memilih Sedang, data disaring untuk urgensi sedang. Jika memilih Gawat Darurat, hanya data pasien dengan urgensi        gawat darurat yang ditampilkan.
 
 9. Log Out
+    
     Ketika pengguna memilih "Log Out", sistem akan menampilkan pesan konfirmasi "Anda yakin ingin keluar?" dengan opsi "Yes" atau "No". Jika memilih "Yes", sesi akan berakhir dan            pengguna diarahkan ke halaman login.
    ![Screenshot 2024-11-21 134327](https://github.com/user-attachments/assets/112c9165-e9f1-484f-af46-b5bff8a17391)
 
