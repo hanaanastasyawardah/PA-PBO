@@ -109,6 +109,7 @@ Setelah berhasil login, Staff akan di tujukan dengan halaman menu Staff. Di Menu
    ![Screenshot 2024-11-21 134057](https://github.com/user-attachments/assets/5a91d7fb-8d71-40f9-a30d-86de008eb3cf)
 
 3. Data Dokter
+   
    Pada menu "Data Dokter", staff dapat mengelola data dokter seperti ID Dokter, Nama Dokter, Spesialisasi, Nomor Telepon, dan Jadwal       Kerja. Setelah data diisi, informasi dokter akan tampil di sistem.
    Staff dapat menambah, memperbarui, atau menghapus data dokter, serta keluar dari menu "Data Dokter" ke halaman sebelumnya. Fitur         ini memastikan data dokter selalu akurat dan mendukung kelancaran pelayanan kesehatan.
    
@@ -128,6 +129,7 @@ Setelah berhasil login, Staff akan di tujukan dengan halaman menu Staff. Di Menu
      ![hapus dokter 2](https://github.com/user-attachments/assets/0468852b-99b9-411d-a6da-b7de01d754a1)
 
 5. Data Pasien
+   
    Pada menu "Data Dokter", staff dapat mengelola data dokter seperti ID Dokter, Nama Dokter, Spesialisasi, Nomor Telepon, dan Jadwal       Kerja. Setelah data diisi, informasi dokter akan tampil di sistem.
    Staff dapat menampilkan, menambah, memperbarui, atau menghapus data dokter, serta keluar dari menu "Data Dokter" ke halaman              sebelumnya. Fitur ini memastikan data dokter selalu akurat dan mendukung kelancaran pelayanan kesehatan.
 
@@ -149,6 +151,7 @@ Setelah berhasil login, Staff akan di tujukan dengan halaman menu Staff. Di Menu
      ![Screenshot 2024-11-21 172826](https://github.com/user-attachments/assets/454bffc6-f092-4904-9dbc-a6add0273421)
 
 7. Data Antrian
+   
    Pada menu "Data Antrian", staff dapat mengelola informasi antrian pasien. Halaman ini menampilkan form dengan kolom yang perlu diisi,    seperti ID Antrian, Waktu Masuk Antrian, Status Antrian, ID Pelayanan, dan ID Pasien. Untuk menambahkan data antrian baru, staff         hanya perlu mengisi seluruh informasi yang diperlukan dan menekan tombol Add. Setelah data berhasil ditambahkan, sistem akan             menampilkan notifikasi yang mengonfirmasi keberhasilan input data.
    
    - Menampilkan data antrian (read)
@@ -164,6 +167,9 @@ Setelah berhasil login, Staff akan di tujukan dengan halaman menu Staff. Di Menu
      ![Screenshot 2024-11-21 174630](https://github.com/user-attachments/assets/05a054de-341b-4b98-9357-9086a821b847)
 
 9. Pelayanan
+
+   Pada menu "Pelayanan", staff dapat mengelola data pelayanan pasien seperti ID Pelayanan, Jenis Pelayanan, Waktu Pelayanan, Tanggal       Pelayanan, dan Status Pelayanan. Setelah data diisi, informasi pelayanan akan ditampilkan di sistem.
+   Staff dapat menambah, memperbarui, atau menghapus data pelayanan, serta keluar dari menu "Pelayanan" ke halaman sebelumnya. Fitur ini    memastikan data pelayanan tetap akurat dan mendukung kelancaran operasional pelayanan kesehatan.
    
    - Menampilkan pelayanan (read)
      ![Screenshot 2024-11-21 173524](https://github.com/user-attachments/assets/7a1efabe-1bb2-4d17-81a4-83e5eef4dddc)
